@@ -84,8 +84,8 @@ def response_generator(response_str):
         time.sleep(0.01)
         yield word
 
-st.set_page_config(page_title='Automation Anywhere - AAI Brain', page_icon = 'https://chat-beta.automationanywhere.com/assets/icon/favicon.ico', layout='wide')
-st.header("Automation Anywhere - AAI Brain")
+st.set_page_config(page_title='Automation Anywhere - AAI EK', page_icon = 'https://chat-beta.automationanywhere.com/assets/icon/favicon.ico', layout='wide')
+st.header("Incapacidades - Automation Anywhere - AAI EK")
 # st.image("https://chat-beta.automationanywhere.com/static/media/aa-gen-ai-logo.17572d7b831dd1a39cf8.png")
 st.html("""
     <!doctype html>
